@@ -1,7 +1,6 @@
-#include<bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
-int main(){
-    int n;
-    cin >> n;
-    cout << "Hello World" << endl << n << endl;
+int main()
+{
+    cout << "Hello World" << endl;
 }
